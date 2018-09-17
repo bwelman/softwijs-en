@@ -1,5 +1,5 @@
 ---
-title: Excel 2016
+title: Learn Excel (2016)
 author: Ben Welman
 date: '2018-09-08'
 slug: excel-2016
@@ -14,6 +14,5 @@ weight: 40
 
 A task-oriented textbook developed for students in secondary and higher education. Also very suitable for anyone who wants to use Excel for data analysis. The book contains many exercises.
 
-A digital version (PDF and PDF) can be purchased through [Excel 2016 EN PDF/EPUB](https://gum.co/Ovtymt)
-
-A free online edition will be available soon.
+-  Free online edition: [Learn Excel 2016 EN - online](https://learnexcel.netlify.com)
+-  Buy digital edition: [Learn Excel 2016 EN -  PDF/EPUB](https://gum.co/Ovtymt)

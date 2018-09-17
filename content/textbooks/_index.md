@@ -16,5 +16,5 @@ Textbooks from Softwijs differ from other textbooks in several ways.
 -  The content of the tasks and exercises is mainly determined by competences and skills that higher education requires. Many of the problems have come from experiences of students in the professional practice during internships and graduation.
 -  There is a free online version that makes it accessible to a wide audience. The content is regularly updated so you do not have to wait for a new edition until errors have been corrected or new topics have been added.
 -  Besides the online version you can buy a PDF or Epub, which you can print or put on a computer / tablet / ereader. You don't need an online connection.
--  **PDF**: suitable for reading on a PC/laptop and for making a paper print. The content is searchable and you can zoom in and out.
--  **EPUB**: suitable for reading on a PC/laptop, e-reader, ipad, tablet. Font and size can be adjusted (depending on the device). The content is searchable.
+    +  **PDF**: suitable for reading on a PC/laptop and for making a paper print. The content is searchable and you can zoom in and out.
+    +  **EPUB**: suitable for reading on a PC/laptop, e-reader, ipad, tablet. Font and size can be adjusted (depending on the device). The content is searchable.

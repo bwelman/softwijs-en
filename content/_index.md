@@ -11,7 +11,7 @@ Softwijs was founded in 1993 with the aim of developing educational software for
 
 As of September 2018 there are a number of changes, such as
 
--  The textbooks **Access 2016** and **Excel 2016** are available in a **free online version**, noth the Dutch- and English-language versions. You can buy these textbooks also through Gumroad in PDF and EPUB format. See further <a href="{{< relref "textbooks/access-2016" >}}">Access 2016</a> and <a href="{{< relref "textbooks/excel-2016" >}}">Excel 2016</a>.
+-  The textbooks **Access 2016** and **Excel 2016** are available in a **free online version**, noth the Dutch- and English-language versions. You can buy these textbooks also through Gumroad in PDF and EPUB format. See further at * Textbooks*..
 -  Older versions of the textbooks are only available on request.
 -  There will be regular articles about o.a.:
    +   statistics and data-analysis with Excel and Power Query
