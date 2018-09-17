@@ -4,7 +4,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Softwijs Website"
 theme = "hugo-theme-docdock"
-googleAnalytics = "UA-1284000-1"
+googleAnalytics = "UA-1284000-3"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 pygmentsCodeFences = true
