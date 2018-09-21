@@ -5,7 +5,7 @@ date: '2018-09-08'
 slug: access-2016
 categories: [Access]
 tags: [studieboek]
-description: 'Textbook Microsoft Access 2016'
+description: 'Textbook Microsoft Access 2016 with exercises'
 pre: '<i class=''fa fa-file-text''>&nbsp;&nbsp;</i> '
 weight: 20
 ---
@@ -16,3 +16,5 @@ A task-oriented textbook developed for students in secondary and higher educatio
 
 -  Free online edition: [Learn Access 2016 EN - online](https://learnaccess.netlify.com)
 -  Buy digital edition: [Learn Access 2016 EN -  PDF/EPUB](https://gum.co/deAkp)
+
+Download [Practice files](../../download/Practicefiles-LearnAccess.zip)

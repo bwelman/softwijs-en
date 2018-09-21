@@ -5,7 +5,7 @@ date: '2018-09-08'
 slug: excel-2016
 categories: [Excel]
 tags: [textbook]
-description: 'Textbook Microsoft Excel 2016'
+description: 'Textbook Microsoft Excel 2016 with exercises'
 pre: '<i class=''fa fa-file-text''>&nbsp;&nbsp;</i> '
 weight: 40
 ---
@@ -16,3 +16,5 @@ A task-oriented textbook developed for students in secondary and higher educatio
 
 -  Free online edition: [Learn Excel 2016 EN - online](https://learnexcel.netlify.com)
 -  Buy digital edition: [Learn Excel 2016 EN -  PDF/EPUB](https://gum.co/Ovtymt)
+
+Download [Practice files](../../download/Practicefiles-LearnExcel.zip)
