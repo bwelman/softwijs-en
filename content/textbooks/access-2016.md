@@ -16,5 +16,3 @@ A task-oriented textbook developed for students in secondary and higher educatio
 
 -  Free online edition: [Learn Access 2016 EN - online](https://learnaccess.netlify.com)
 -  Buy digital edition: [Learn Access 2016 EN -  PDF/EPUB](https://gum.co/deAkp)
-
-Download [Practice files](../../download/Practicefiles-LearnAccess.zip)

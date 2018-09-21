@@ -16,5 +16,3 @@ A task-oriented textbook developed for students in secondary and higher educatio
 
 -  Free online edition: [Learn Excel 2016 EN - online](https://learnexcel.netlify.com)
 -  Buy digital edition: [Learn Excel 2016 EN -  PDF/EPUB](https://gum.co/Ovtymt)
-
-Download [Practice files](../../download/Practicefiles-LearnExcel.zip)
