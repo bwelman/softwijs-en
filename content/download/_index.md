@@ -16,5 +16,5 @@ MS Office textbook practice files English language:
 
 MS Office textbook practice files Dutch language:
 
--  [Hulpbestanden LeerAccess](files/Practicefiles-LeerAccess.zip)
--  [Hulpbestanden LeerExcel](files/Practicefiles-LeerExcel.zip)
+-  [Hulpbestanden LeerAccess](files/Hulpbestanden-LeerAccess.zip)
+-  [Hulpbestanden LeerExcel](files/Hulpbestanden-LeerExcel.zip)
