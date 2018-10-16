@@ -11,13 +11,14 @@ Softwijs was founded in 1993 with the aim of developing educational software for
 
 As of September 2018 there are a number of changes, such as
 
--  The textbooks **Access 2016** and **Excel 2016** are available in a **free online version**, noth the Dutch- and English-language versions. You can buy these textbooks also through Gumroad in PDF and EPUB format. See further at *Textbooks*.
+-  The textbooks **Access 2016** and **Excel 2016** are available in a **free online version**, both the Dutch- and English-language versions. The source files for these textbooks are *DITA* files, created and published with Oxygen XML Editor.
+-  You can also buy these textbooks in PDF/EPUB format through Gumroad, see at *Textbooks* in the navigation bar at the left.
 -  Older versions of the textbooks are only available on request.
--  There will be regular articles about o.a.:
+-  There will be regular articles about:
    +   statistics and data-analysis with Excel and Power Query
    +   data analysis with R
    +   time series and forecasting
    +   creating reproducible analyzes and reports
--  The website is no longer built with Joomla, but with [Blogdown](https://bookdown.org/yihui/blogdown/) based on Markdown documents. The structure is still experimental and can undergo changes.
+-  This website has been build with [Blogdown](https://bookdown.org/yihui/blogdown/) based on Markdown documents. The structure is still experimental and can undergo changes.
 
-For questions and additional information, send a message to: [Softwijs](mailto:info@softwijs.nl). Also comments on these changes are welcome.
+For questions, comments and additional information, send a message to: [Softwijs](mailto:softwijsinfo@gmail.com).
