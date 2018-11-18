@@ -1,0 +1,27 @@
+---
+title: Excel Power Query Options
+author: Ben Welman
+date: '2018-11-18'
+slug: excel-power-query-options
+categories: []
+tags:
+  - Excel
+  - Power Query
+description: ''
+---
+
+
+
+<p>The <em>data model</em> was introduced in Excel 2010 together with the Power Pivot addin. From version 2013 the data model is fully embedded in Excel. A data model is an abstract model that organizes data in tables and can create relationships between tables.</p>
+<p>Through <em>Get &amp; Transform</em>, formerly called <em>Power Query</em>, you can load data from multiple data sources in Excel. At the end of the import process you have the choice to load the data to a worksheet, to the data model or to both.</p>
+<p>You do not always have this choice and that is caused by the default settings for loading queries. There are two ways for finding these settings:</p>
+<ol style="list-style-type: decimal">
+<li>In Excel: tab Data &gt; Get Data (group Get &amp; Transform Data) &gt; Query Options</li>
+<li>In Power Query Editor: File &gt; Options &amp; Settings &gt; Query Options</li>
+</ol>
+<p>In both cases you get</p>
+<div class="figure">
+<img src="/img/power_query_options.png" alt="Power Query Options" />
+<p class="caption">Power Query Options</p>
+</div>
+<p>With standard load settings, the data is loaded to a new workdheet when loading a single query. When you import two or more tables then a data model is created automatically. You can override these settings for a given query using the Load To dialog window.</p>
