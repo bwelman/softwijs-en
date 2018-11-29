@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Softwijs Website"
-theme = "hugo-theme-docdock"
+theme = "docdock"
 googleAnalytics = "UA-1284000-3"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
