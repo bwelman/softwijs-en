@@ -3,8 +3,7 @@ title: Power Pivot for all Excel versions
 author: Ben Welman
 date: '2018-10-19'
 slug: power-pivot
-categories: []
-tags: [Excel, Power Pivot]
+tags: [Excel, "Power Pivot"]
 description: ''
 ---
 

@@ -1,13 +1,11 @@
 ---
+chapter: true
+pre: <b>1. </b>
 title: Textbooks
-date: '2018-09-08'
-slug: textbooks
-fileListing: yes
-pre: '<i class=''fa fa-book''>&nbsp;&nbsp;</i> '
-description: ''
-disable_comments: yes
-weight: 100
+weight: 10
 ---
+
+## Textbooks
 
 Textbooks from Softwijs differ from other textbooks in several ways.
 

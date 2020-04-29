@@ -3,10 +3,7 @@ title: Excel Power Query Options
 author: Ben Welman
 date: '2018-11-18'
 slug: excel-power-query-options
-categories: []
-tags:
-  - Excel
-  - Power Query
+tags: [Excel, "Power Query"]
 description: ''
 ---
 
@@ -21,6 +18,6 @@ You do not always have this choice and that is caused by the default settings fo
 
 In both cases you get
 
-![Power Query Options](/img/power_query_options.png)
+![Power Query Options](/images/power_query_options.png)
 
 With standard load settings, the data is loaded to a new workdheet when loading a single query. When you import two or more tables then a data model is created automatically. You can override these settings for a given query using the Load To dialog window.

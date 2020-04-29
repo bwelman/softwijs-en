@@ -3,7 +3,6 @@ title: Website building (1)
 author: Ben Welman
 date: '2018-09-09'
 slug: website-building
-categories: []
 tags: [Markdown, Hugo]
 description: ''
 ---
@@ -15,7 +14,7 @@ This website is a so-called static website that is composed by a generator from 
 1.  [Blogdown](https://bookdown.org/yihui/blogdown/), an R package for creating static websites with *Rmarkdown*.
 2.  [RStudio](https://www.rstudio.com/), an integrated development environment for the language *R*.
 3.  [Hugo](https://gohugo.io/), a popular open-source static website generator.
-4.  [docDock](https://themes.gohugo.io/docdock/), a theme for *Hugo*.
+4.  [Learn theme](https://themes.gohugo.io/hugo-theme-learn/), a theme for *Hugo*.
 5.  [Git](https://git-scm.com/), a version management system.
 6.  [GitHub](https://github.com/), a popular hosting service for *Git* repositories.
 7.  [Markdown](https://daringfireball.net/projects/markdown/) and [RMarkdown](https://rmarkdown.rstudio.com/) as markup languages for the source documents.
@@ -28,7 +27,7 @@ This website is a so-called static website that is composed by a generator from 
 R, RStudio and Git were already installed. A GitHub and Google Analytics account was already there. In general, the method was
 
 1.  Installing package Blogdown through RStudio.
-2.  Creating a new RStudio project for this website, based on Hugo theme docdock.
+2.  Creating a new RStudio project for this website, based on Hugo theme Learn.
 3.  Changed the project folder in a Git repository.
 4.  Made various adjustments for structure and layout.
 5.  New content created.

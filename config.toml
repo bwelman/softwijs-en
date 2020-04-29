@@ -1,34 +1,38 @@
 baseURL = "/"
-
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Softwijs Website"
-theme = "docdock"
-googleAnalytics = "UA-1284000-3"
+theme = "hugo-theme-learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-pygmentsCodeFences = true
-pygmentsStyle = "monokailight"
-
+googleAnalytics = "UA-1284000-3"
 
 [params]
-showVisitedLinks = true # default is false
-themeStyle = "original" # "original" or "flex" # default "flex"
-themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
-ordersectionsby = "weight" # ordersectionsby = "title"
-disableHomeIcon = false # default is false
-disableSearch = false # default is false
-disableNavChevron = false # set true to hide next/prev chevron, default is false
-highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
-menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
-enableGitInfo = true
+  editURL = ""
+  description = "Website from Softwijs"
+  author = "Ben Welman"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  themeVariant = "sw"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-[[menu.shortcuts]]
-pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> <label>My Github repo's</label>"
-identifier = "ds"
-url = "https://github.com/bwelman"
+[Languages]
+[Languages.en]
+title = "Softwijs website"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
 weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> My GitHub repo's"
+identifier = "bwgithub"
+url = "https://github.com/bwelman"
+weight = 20

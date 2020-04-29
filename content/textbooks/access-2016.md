@@ -1,16 +1,14 @@
 ---
 title: Learn Access (2016)
-author: Ben Welman
 date: '2018-09-08'
 slug: access-2016
-categories: [Access]
-tags: [studieboek]
+tags: [Textbook, Access]
 description: 'Textbook Microsoft Access 2016 with exercises'
-pre: '<i class=''fa fa-file-text''>&nbsp;&nbsp;</i> '
+pre: '<i class=''fa fa-book''>&nbsp;&nbsp;</i> '
 weight: 20
 ---
 
-![cover Access 2016](/img/cover_access_en_h120.png)
+![cover Access 2016](/images/cover_access_en_h120.png)
 
 A task-oriented textbook developed for students in secondary and higher education. A lot of attention for creating queries, forms and reports. The book contains many exercises.
 
