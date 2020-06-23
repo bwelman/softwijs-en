@@ -19,10 +19,6 @@ Softwijs was founded in 1993 with the aim of developing educational software for
    +   time series and forecasting
    +   creating reproducible analyzes and reports
 
-**OFFER**
-
-**Only this week (15 juni t/m 20 juni) 40% discount on all digital text books with discount code bw1806**
-
 ### Contact
 
 For questions, comments and additional information, send a message to: [Softwijs](mailto:softwijsinfo@gmail.com).
