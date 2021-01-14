@@ -1,11 +1,11 @@
-baseURL = "/"
+baseURL = "https://softwijs.netlify.app/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Softwijs Website"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 googleAnalytics = "UA-1284000-3"
 
 [params]
@@ -36,3 +36,8 @@ name = "<i class='fab fa-fw fa-github'></i> My GitHub repo's"
 identifier = "bwgithub"
 url = "https://github.com/bwelman"
 weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
