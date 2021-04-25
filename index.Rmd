@@ -1,3 +1,26 @@
 ---
-site: blogdown:::blogdown_site
+title: "Softwijs"
+description: |
+  Welcome to the website from Softwijs.
+site: distill::distill_website
 ---
+
+Softwijs was founded in 1993 with the aim of developing educational software for middle and higher education. In the nineties, training courses in the Microsoft Office applications were developed. All course materials have been developed in-house and the developers worked in education.
+
+The textbooks **Learn Access 365** and **Learn Excel 365** are available in a **free online version**. You can also buy these textbooks in PDF/EPUB format. See [Textbooks](textbooks.html) in the navigation bar.
+
+#### Main features
+
+Textbooks from Softwijs differ from other textbooks in several ways.
+
+-  Topics are developed to perform a specific task and master a specific task, no more and no less. This has resulted in concrete stepwise tasks without additional information that may cause only distraction.
+-  At the end of most chapters there is a series of exercises. If there is a final answer than it will showed.
+-  The content of the tasks and exercises is mainly determined by competences and skills that higher education requires. Many of the problems have come from experiences of students in the professional practice during internships and graduation.
+
+#### Contact
+
+For questions, comments and additional information, send a message to: [Softwijs](mailto:softwijsinfo@gmail.com).
+
+#### News
+
+Once again a new design of the website. The website is now created with [Distill](https://rstudio.github.io/distill/). The options for formatting are now more limited than before, but the use is a lot easier and the distill format fits my articles better.

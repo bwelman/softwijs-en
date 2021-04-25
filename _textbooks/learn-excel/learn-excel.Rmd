@@ -1,0 +1,21 @@
+---
+title: "Learn Excel"
+description: |
+  Textbook Microsoft Excel 365 for beginners and advanced users, with a lot of exercises.
+preview: preview.png
+output:
+  distill::distill_article
+---
+
+```{r echo=FALSE, out.width="25%"}
+knitr::include_graphics("cover-excel-365-en.png")
+```
+
+A task-oriented textbook developed for students in secondary and higher education. Also very suitable for anyone who wants to use Excel for data analysis. The book contains many exercises. For the most part, the study book can also be used for other Excel versions such as 2010, 2013, 2016 and 2019.
+
+-  Free online edition: [Learn Excel - online](https://learnexcel.netlify.com)
+-  Buy digital edition: [Learn Excel -  PDF/EPUB](https://gum.co/Ovtymt)
+
+[Download Practice files LearnExcel](Practicefiles-LearnExcel.zip)
+
+

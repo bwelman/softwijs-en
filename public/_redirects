@@ -1,0 +1,10 @@
+# Redirects
+/textbooks/ /textbooks.html
+/textbooks/access-2016/ /textbooks/learn-access/
+/textbooks/excel-2016/ /textbooks/learn-excel/
+/excel/ /posts.html
+/excel/excel-power-query-options/ /posts/2018-11-18-power-query-opties/
+/excel/power-pivot/ /posts/2018-10-19-power-pivot/
+/articles/ /posts.html
+/articles/website-building/ /posts/2018-09-09-website-building-1/
+/download/ /download.html

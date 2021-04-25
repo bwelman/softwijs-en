@@ -1,0 +1,30 @@
+[
+  {
+    "path": "textbooks/learn-access/",
+    "title": "Learn Access",
+    "description": "Textbook Microsoft Access 365 for beginners and advanced users, with a lot of exercises.",
+    "author": [],
+    "date": "2021-04-24",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\nA task-oriented textbook developed for students in secondary and higher education. A lot of attention for creating queries, forms and reports. The book contains many exercises. The study book can also be used for other Access versions such as 2016 and 2019.\r\nFree online edition: Learn Access - online\r\nBuy digital edition: Learn Access - PDF/EPUB\r\nDownload Practice files LearnAccess\r\n\r\n\r\n\r\n",
+    "preview": "textbooks/learn-access/preview.png",
+    "last_modified": "2021-04-24T10:57:16+02:00",
+    "input_file": {},
+    "preview_width": 566,
+    "preview_height": 800
+  },
+  {
+    "path": "textbooks/learn-excel/",
+    "title": "Learn Excel",
+    "description": "Textbook Microsoft Excel 365 for beginners and advanced users, with a lot of exercises.",
+    "author": [],
+    "date": "2021-04-24",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\nA task-oriented textbook developed for students in secondary and higher education. Also very suitable for anyone who wants to use Excel for data analysis. The book contains many exercises. For the most part, the study book can also be used for other Excel versions such as 2010, 2013, 2016 and 2019.\r\nFree online edition: Learn Excel - online\r\nBuy digital edition: Learn Excel - PDF/EPUB\r\nDownload Practice files LearnExcel\r\n\r\n\r\n\r\n",
+    "preview": "textbooks/learn-excel/preview.png",
+    "last_modified": "2021-04-24T10:57:48+02:00",
+    "input_file": {},
+    "preview_width": 566,
+    "preview_height": 800
+  }
+]

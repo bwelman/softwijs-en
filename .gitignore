@@ -2,8 +2,3 @@
 .Rhistory
 .RData
 .Ruserdata
-public
-*.Rproj
-.DS_Store
-Thumbs.db
-resources

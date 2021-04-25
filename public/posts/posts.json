@@ -1,0 +1,68 @@
+[
+  {
+    "path": "posts/2018-11-18-power-query-opties/",
+    "title": "Power Query Options",
+    "description": "Options for Power Query in Excel.",
+    "author": [
+      {
+        "name": "Ben Welman",
+        "url": {}
+      }
+    ],
+    "date": "2018-11-18",
+    "categories": [
+      "excel",
+      "power query"
+    ],
+    "contents": "\r\nThe data model was introduced in Excel 2010 together with the Power Pivot addin. From version 2013 the data model is fully embedded in Excel. A data model is an abstract model that organizes data in tables and can create relationships between tables.\r\nThrough Get & Transform, formerly called Power Query, you can load data from multiple data sources in Excel. At the end of the import process you have the choice to load the data to a worksheet, to the data model or to both.\r\nYou do not always have this choice and that is caused by the default settings for loading queries. There are two ways for finding these settings:\r\nIn Excel: tab Data > Get Data (group Get & Transform Data) > Query Options\r\nIn Power Query Editor: File > Options & Settings > Query Options\r\nIn both cases you get\r\nPower Query OptionsWith standard load settings, the data is loaded to a new workdheet when loading a single query. When you import two or more tables then a data model is created automatically. You can override these settings for a given query using the Load To dialog window.\r\nMet de standaardinstellingen voor het laden worden de gegevens naar een nieuw werkblad geladen als er één query wordt geladen. Wanneer je twee of meer tabellen importeert wordt automatisch een gegevensmodel gemaakt. Je kunt het dialoogvenster Laden naar gebruiken om deze instellingen voor een bepaalde query te overschrijven.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2018-11-18-power-query-opties/power-query-options.png",
+    "last_modified": "2021-04-24T09:13:36+02:00",
+    "input_file": {},
+    "preview_width": 444,
+    "preview_height": 386
+  },
+  {
+    "path": "posts/2018-10-19-power-pivot/",
+    "title": "Power Pivot for all Excel versions",
+    "description": "Availability of Power Pivot now for all Excel versions.",
+    "author": [
+      {
+        "name": "Ben Welman",
+        "url": {}
+      }
+    ],
+    "date": "2018-10-19",
+    "categories": [
+      "excel",
+      "power pivot"
+    ],
+    "contents": "\r\nWhen Office 2016 became available for the first time (September 2015), it was disappointing for me (and many other users) that Power Pivot was only available in limited versions of Excel 2016. Until then, users of Excel 2010 and Excel 2013 could install a free Power Pivot add-in, but with the release of Excel 2016 Microsoft positioned Power Pivot for the business market. And the sad thing was that you only discovered this after you bought the product, as I did with my Office 365 Home subscription that should contain a fully working version of Excel.\r\nFortunately, Microsoft changed this in spring 2018 and made Power Pivot available for all Windows versions of Excel. Rolling out this changed has started through the monthly updates from May 2018 (Build 9330 and beyond). After receiving the upfate, you need to activate this COM add-in through Add-ins in Excel Options. Then Power Pivot appears on the ribbon.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2018-10-19-power-pivot/preview.png",
+    "last_modified": "2021-04-24T11:19:15+02:00",
+    "input_file": {},
+    "preview_width": 401,
+    "preview_height": 92
+  },
+  {
+    "path": "posts/2018-09-09-website-building-1/",
+    "title": "Website building (1)",
+    "description": "List of tools for creating a static website.",
+    "author": [
+      {
+        "name": "Ben Welman",
+        "url": {}
+      }
+    ],
+    "date": "2018-09-09",
+    "categories": [
+      "markdown",
+      "hugo"
+    ],
+    "contents": "\r\nThis website is a so-called static website that is composed by a generator from a number of source documents.\r\nTools\r\nBlogdown, an R package for creating static websites with Rmarkdown.\r\nRStudio, an integrated development environment for the language R.\r\nHugo, a popular open-source static website generator.\r\nLearn theme, a theme for Hugo.\r\nGit, a version management system.\r\nGitHub, a popular hosting service for Git repositories.\r\nMarkdown and RMarkdown as markup languages for the source documents.\r\nMathJax, a javascript engine for mathematical expressions in browsers.\r\nGoogle Analytics, for analyzing the use of the website.\r\nSourcetree, a free Git GUI for Windows and Mac.\r\nMethod\r\nR, RStudio and Git were already installed. A GitHub and Google Analytics account was already there. In general, the method was\r\nInstalling package Blogdown through RStudio.\r\nCreating a new RStudio project for this website, based on Hugo theme Learn.\r\nChanged the project folder in a Git repository.\r\nMade various adjustments for structure and layout.\r\nNew content created.\r\nAfter testing, build the website and push it to the server.\r\nIn a next article some details will be discussed in more detail.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2018-09-09-website-building-1/preview.png",
+    "last_modified": "2021-04-24T09:13:51+02:00",
+    "input_file": {},
+    "preview_width": 315,
+    "preview_height": 111
+  }
+]

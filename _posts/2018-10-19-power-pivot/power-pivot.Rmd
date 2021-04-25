@@ -1,0 +1,20 @@
+---
+title: Power Pivot for all Excel versions
+description: |
+  Availability of Power Pivot now for all Excel versions.
+author:
+  - name: Ben Welman
+date: 10-19-2018
+preview: preview.png
+citation: false
+categories:
+  - excel
+  - "power pivot"
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+When Office 2016 became available for the first time (September 2015), it was disappointing for me (and many other users) that Power Pivot was only available in limited versions of Excel 2016. Until then, users of Excel 2010 and Excel 2013 could install a free Power Pivot add-in, but with the release of Excel 2016 Microsoft positioned Power Pivot for the business market. And the sad thing was that you only discovered this after you bought the product, as I did with my Office 365 Home subscription that should contain a fully working version of Excel.
+
+Fortunately, Microsoft [changed this](https://www.myexcelonline.com/blog/power-pivot-is-now-available-in-all-versions-of-excel/) in spring 2018 and made Power Pivot available for all Windows versions of Excel. Rolling out this changed has started through the monthly updates from May 2018 (Build 9330 and beyond). After receiving the upfate, you need to activate this COM add-in through Add-ins in Excel Options. Then Power Pivot appears on the ribbon.

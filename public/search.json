@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "path": "download.html",
+      "title": "Downloads",
+      "author": [],
+      "contents": "\r\nMS Office textbook practice files English language:\r\nPractice files LearnAccess\r\nPractice files LearnExcel\r\nMS Office textbook practice files Dutch language:\r\nHulpbestanden LeerAccess\r\nHulpbestanden LeerExcel\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-25T10:17:16+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Softwijs",
+      "description": "Welcome to the website from Softwijs.\n",
+      "author": [],
+      "contents": "\r\nSoftwijs was founded in 1993 with the aim of developing educational software for middle and higher education. In the nineties, training courses in the Microsoft Office applications were developed. All course materials have been developed in-house and the developers worked in education.\r\nThe textbooks Learn Access 365 and Learn Excel 365 are available in a free online version. You can also buy these textbooks in PDF/EPUB format. See Textbooks in the navigation bar.\r\nMain features\r\nTextbooks from Softwijs differ from other textbooks in several ways.\r\nTopics are developed to perform a specific task and master a specific task, no more and no less. This has resulted in concrete stepwise tasks without additional information that may cause only distraction.\r\nAt the end of most chapters there is a series of exercises. If there is a final answer than it will showed.\r\nThe content of the tasks and exercises is mainly determined by competences and skills that higher education requires. Many of the problems have come from experiences of students in the professional practice during internships and graduation.\r\nContact\r\nFor questions, comments and additional information, send a message to: Softwijs.\r\nNews\r\nOnce again a new design of the website. The website is now created with Distill. The options for formatting are now more limited than before, but the use is a lot easier and the distill format fits my articles better.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-25T10:17:16+02:00"
+    },
+    {
+      "path": "posts.html",
+      "title": "Articles",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-25T10:17:17+02:00"
+    },
+    {
+      "path": "textbooks.html",
+      "title": "Textbooks",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-25T10:17:17+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json", "textbooks/textbooks.json"]
+}

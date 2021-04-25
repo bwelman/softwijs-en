@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Softwijs website</title>
+    <link>https://softwijs.nl/</link>
+    <atom:link href="https://softwijs.nl/posts.xml" rel="self" type="application/rss+xml"/>
+    <description>Data analysis, Excel, R
+</description>
+    <image>
+      <title>Softwijs website</title>
+      <url>https://softwijs.nl/images/LogoSW2mini.png</url>
+      <link>https://softwijs.nl/</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Power Query Options</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://softwijs.nl/posts/2018-11-18-power-query-opties</link>
+      <description>Options for Power Query in Excel.</description>
+      <category>excel</category>
+      <category>power query</category>
+      <guid>https://softwijs.nl/posts/2018-11-18-power-query-opties</guid>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://softwijs.nl/posts/2018-11-18-power-query-opties/power-query-options.png" medium="image" type="image/png" width="444" height="386"/>
+    </item>
+    <item>
+      <title>Power Pivot for all Excel versions</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://softwijs.nl/posts/2018-10-19-power-pivot</link>
+      <description>Availability of Power Pivot now for all Excel versions.</description>
+      <category>excel</category>
+      <category>power pivot</category>
+      <guid>https://softwijs.nl/posts/2018-10-19-power-pivot</guid>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://softwijs.nl/posts/2018-10-19-power-pivot/preview.png" medium="image" type="image/png" width="401" height="92"/>
+    </item>
+    <item>
+      <title>Website building (1)</title>
+      <dc:creator>Ben Welman</dc:creator>
+      <link>https://softwijs.nl/posts/2018-09-09-website-building-1</link>
+      <description>List of tools for creating a static website.</description>
+      <category>markdown</category>
+      <category>hugo</category>
+      <guid>https://softwijs.nl/posts/2018-09-09-website-building-1</guid>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://softwijs.nl/posts/2018-09-09-website-building-1/preview.png" medium="image" type="image/png" width="315" height="111"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Softwijs website</title>
+    <link>https://softwijs.nl/</link>
+    <atom:link href="https://softwijs.nl/textbooks.xml" rel="self" type="application/rss+xml"/>
+    <description>Data analysis, Excel, R
+</description>
+    <image>
+      <title>Softwijs website</title>
+      <url>https://softwijs.nl/images/LogoSW2mini.png</url>
+      <link>https://softwijs.nl/</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Learn Access</title>
+      <link>https://softwijs.nl/textbooks/learn-access</link>
+      <description>Textbook Microsoft Access 365 for beginners and advanced users, with a lot of exercises.</description>
+      <guid>https://softwijs.nl/textbooks/learn-access</guid>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://softwijs.nl/textbooks/learn-access/preview.png" medium="image" type="image/png" width="566" height="800"/>
+    </item>
+    <item>
+      <title>Learn Excel</title>
+      <link>https://softwijs.nl/textbooks/learn-excel</link>
+      <description>Textbook Microsoft Excel 365 for beginners and advanced users, with a lot of exercises.</description>
+      <guid>https://softwijs.nl/textbooks/learn-excel</guid>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://softwijs.nl/textbooks/learn-excel/preview.png" medium="image" type="image/png" width="566" height="800"/>
+    </item>
+  </channel>
+</rss>

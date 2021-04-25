@@ -1,0 +1,14 @@
+---
+title: "Downloads"
+site: distill::distill_website
+---
+
+MS Office textbook practice files English language:
+
+-  [Practice files LearnAccess](textbooks/learn-access/Practicefiles-LearnAccess.zip)
+-  [Practice files LearnExcel](textbooks/learn-excel/Practicefiles-LearnExcel.zip)
+
+MS Office textbook practice files Dutch language:
+
+-  [Hulpbestanden LeerAccess](https://softwijs.nl/studieboeken/leer-access/Hulpbestanden-LeerAccess.zip)
+-  [Hulpbestanden LeerExcel](https://softwijs.nl/studieboeken/leer-excel/Hulpbestanden-LeerExcel.zip)
